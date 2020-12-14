@@ -1,9 +1,9 @@
 <?php return array (
   'site_name' => 'CloudDrive',
   'password' => 'Xy251231',
-  'style' => 'classic',
-  'onedrive_root' => '/Mirrors/',
-  'except_path' => 'all',
+  'style' => 'nexmoe',
+  'onedrive_root' => '',
+  'except_path' => '',
   'cache_type' => 'secache',
   'cache_expire_time' => 120,
   'cache_refresh_time' => 600,
